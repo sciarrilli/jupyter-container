@@ -1,4 +1,4 @@
-# Data Science Tools 1
+# Jupyter Container
 
 This environment is setup for python 3.9 and the specific versions of libraries in requirements.txt which are compatible with python 3.9
 
