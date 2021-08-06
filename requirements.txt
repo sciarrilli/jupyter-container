@@ -11,7 +11,6 @@ entrypoints
 folium
 geojson
 geopandas
-geoplot
 geopy
 idna
 ipykernel
