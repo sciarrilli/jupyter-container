@@ -4,6 +4,7 @@ bleach
 certifi
 chardet
 cycler
+datapane
 descartes
 decorator
 defusedxml
@@ -11,7 +12,6 @@ entrypoints
 folium
 geojson
 geopandas
-geoplot
 geopy
 idna
 ipykernel
@@ -54,17 +54,21 @@ pyzmq
 qtconsole
 requests
 rise
+scikit-image
 scikit-learn
 scipy
 seaborn
 Send2Trash
 six
 soupsieve
+spacy
 tables
 terminado
 testpath
 torch 
+torchsummary
 torchvision 
+torchtext
 torchaudio
 tornado
 traitlets
@@ -72,4 +76,5 @@ urllib3
 wcwidth
 webencodings
 widgetsnbextension
+wordcloud
 xgboost
